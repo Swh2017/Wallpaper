@@ -1,0 +1,6 @@
+include ':app:paperengine'
+include ':app:admanager'
+include ':app:flowlayout'
+include ':app:horimenu'
+include ':app'
+rootProject.name = "TopWallpaper"
